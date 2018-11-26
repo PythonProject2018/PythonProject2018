@@ -4,6 +4,7 @@ The game we made for our 2018 Python Project.
 INSTRUCTIONS ON HOW TO DOWNLOAD AND PLAY THE GAME:
 
 PART 1: Install pygame
+
 1.Open up your terminal and type sudo apt-get install pygame(it will ask for your password which you will have to provide)
 
 PART 2: Install the game
