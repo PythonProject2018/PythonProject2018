@@ -5,7 +5,8 @@ INSTRUCTIONS ON HOW TO DOWNLOAD AND PLAY THE GAME:
 
 PART 1: Install pygame
 
-1.Open up your terminal and type sudo apt-get install pygame(it will ask for your password which you will have to provide)
+1.Open up your terminal and type sudo apt-get install pygame and press ENTER
+(it will ask for your password which you will have to provide).
 
 PART 2: Install the game
 1. Unzip the file you have downloaded within the Downloads folder
